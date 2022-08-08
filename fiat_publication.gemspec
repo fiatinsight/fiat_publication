@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", ">= 5.2.1"
   s.add_dependency "trix-rails"
   s.add_dependency "simple_form"
-  s.add_dependency "audited", "~> 4.7"
+  s.add_dependency "audited"
   s.add_dependency "best_in_place"
   s.add_dependency "cocoon"
   s.add_dependency "recaptcha"
